@@ -1,0 +1,46 @@
+/* Allgemeine Formatierung */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  /* Überschrift */
+  h1 {
+    font-size: 36px;
+    margin-top: 50px;
+  }
+  /* Formular */
+  form {
+    margin: 0 auto;
+    width: 300px;
+    text-align: left;
+  }
+  /* Labels */
+  label {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  /* Eingabefelder */
+  input[type="number"] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+  }
+  /* Schaltfläche */
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  /* Ergebnis */
+  #result {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
